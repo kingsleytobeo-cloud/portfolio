@@ -1,10 +1,10 @@
 # Kingsley.O - Developer Portfolio
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔬 LIORA Health
 *Science-backed wellness platform targeting adults 40+*
-- **Description:** Developed and launched a static HTML/CSS/JS affiliate website with blog functionality, SEO optimization, and analytics integration
+- **Description:** Developed and launched a static HTML/CSS/JS affiliate website with blog functionality, SEO optimization, geo-tracking link features and analytics integration. Leveraged modern AI development                         tools to efficiently create and iterate on the static HTML code, focusing on rapid prototyping and implementation without extensive manual coding.
 - **Tech Stack:** HTML5, CSS3, JavaScript, Git, Vercel, Google Analytics
 - **Live Site:** https://liora-health.vercel.app/
 - **Code:** [https://github.com/your-main-account/liora-health](https://github.com/liorahealth-commits/liora-site/tree/main/LIORA%20html)
